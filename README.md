@@ -1,4 +1,6 @@
 # KMS for PGP/GPG
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farber-salihi%2Fkmspgp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Farber-salihi%2Fkmspgp?ref=badge_shield)
+
 
 This tool allows you to use [AWS KMS][aws-kms] asymmetric keys as if they were
 PGP/GPG keys. (Only for signatures for now.)
@@ -73,3 +75,6 @@ Additionally, some dependencies may be licensed under the Apache 2.0 license.
 
 [aws-kms]: https://docs.aws.amazon.com/kms/latest/developerguide/overview.html
 [bc]: https://www.bouncycastle.org/java.html
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Farber-salihi%2Fkmspgp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Farber-salihi%2Fkmspgp?ref=badge_large)
